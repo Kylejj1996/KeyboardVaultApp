@@ -138,7 +138,7 @@
 - **Disk Space:** 850MB – 2GB  
 
 ### 📦 Installation
-1. Download the project from GitHub or as a ZIP file  
+1. Download the Keyboard Vault Setup Wizard from GitHub or as a ZIP file  
 2. Run the setup installer (admin rights required)  
 3. Launch from desktop shortcut or Start Menu  
 4. Log in as a **Manager** or create a **Customer** account  
@@ -155,20 +155,44 @@
 ---
 
 ## 🖼️ Visual Previews
-![Logon Screen](/ProgressImages/LogonScreen.png)  
-![Account Creation](/ProgressImages/AccountCreation.png)  
-![Password Reset](/ProgressImages/PasswordReset.png)  
-![Customer Shop](/ProgressImages/CustomerViewUpdated.png)  
-![Cart](/ProgressImages/Cart.png)  
-![Checkout](/ProgressImages/Checkout.png)  
-![Manager View](/ProgressImages/ManagerViewHomeUpdated.png)  
-![Promo Codes](/ProgressImages/PromoCodes.png)  
-![Reports](/ProgressImages/ReportsUpdated.png)  
-![Manager Accounts](/ProgressImages/ManagerAccounts.png)  
-![Customer Accounts](/ProgressImages/CustomerAccounts.png)  
-![Shop for Customer](/ProgressImages/ShopForCustomer.png)  
-![Return Products](/ProgressImages/ReturnProducts.png)  
-![Return Requests](/ProgressImages/ReturnRequests.png)
+# Logon Screen
+![Logon Screen](/VisualPreviews/LogonScreen.png)  
+
+# Account Creation Screen
+![Account Creation](/VisualPreviews/AccountCreation.png)
+
+# Password Reset Screen
+![Password Reset](/VisualPreviews/PasswordReset.png) 
+
+# Customer View Shop Screen
+![Customer Shop](/VisualPreviews/CustomerView.png) 
+
+# Cart Screen
+![Cart](/VisualPreviews/Cart.png)  
+
+# Checkout Screen
+![Checkout](/VisualPreviews/Checkout.png) 
+
+# Manager View Screen
+![Manager View](/VisualPreviews/ManagerView.png) 
+
+# Manager Reports
+![Reports](/VisualPreviews/ManagerReports.png) 
+
+# Manager Account Managment
+![Manager Accounts](/VisualPreviews/ManagerAccounts.png) 
+
+# Customer Account Managment
+![Customer Accounts](/VisualPreviews/CustomerAccounts.png) 
+
+# Shopping for Customer (Manager View)
+![Shop for Customer](/VisualPreviews/ShopForCustomer.png)  
+
+# Returning Products (Feature Added)
+![Return Products](/VisualPreviews/ReturnOrders.png) 
+
+# Return Requests (Feature Added)
+![Return Requests](/VisualPreviews/ReturnRequests.png)
 
 ---
 
