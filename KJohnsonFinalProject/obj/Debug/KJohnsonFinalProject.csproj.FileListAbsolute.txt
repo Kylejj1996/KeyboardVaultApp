@@ -1,0 +1,354 @@
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KJohnsonFinalProject\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\LogonView\KeyboardVaultLogonView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M3 CustomerView\KeyboardVaultCustomerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Documents\School_Sp_25\INEW-2330 Project Plan and Design\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\M4 ManagerView\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 1\KeyboardVaultManagerView\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication - Copy\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\KeyboardVaultApplication\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 3\KeyboardVault - New Feature\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading - Copy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 4 - Threading & Optimization\KeyboardVault - Threading\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\INEW_2332\Module 5 Final Package & Deploy\KeyboardVault - Final Package & Deploy\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KeyboardVaultDB.db
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe.config
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\KJohnsonFinalProject.pdb
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Dapper.dll
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Dapper.xml
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.AssemblyReference.cache
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmAcctCreation.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCart.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCheckout.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerAccounts.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmCustomerView.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmLogin.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerAccounts.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmManagerView.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmPasswordReset.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReports.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnProduct.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.frmReturnRequests.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.Properties.Resources.resources
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnson.13747A10.Up2Date
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.exe
+C:\Users\Kylej\Desktop\Portfolio Projects\Keyboard Vault Application\KJohnsonFinalProject\obj\Debug\KJohnsonFinalProject.pdb
