@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|c:\\users\\kylej\\desktop\\keyboard vault application\\kjohnsonfinalproject\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|solutionrelative:kjohnsonfinalproject\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\kjohnsonfinalproject\\frmmanagerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|solutionrelative:kjohnsonfinalproject\\frmmanagerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\kjohnsonfinalproject\\clssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|solutionrelative:kjohnsonfinalproject\\clssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\kjohnsonfinalproject\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68AF7D83-D8FF-475D-BA42-08A98A11AE98}|KJohnsonFinalProject\\KJohnsonFinalProject.csproj|solutionrelative:kjohnsonfinalproject\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\clsSQL.cs",
+              "RelativeDocumentMoniker": "KJohnsonFinalProject\\clsSQL.cs",
+              "ToolTip": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\clsSQL.cs",
+              "RelativeToolTip": "KJohnsonFinalProject\\clsSQL.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:35:54.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\clsValidation.cs",
+              "RelativeDocumentMoniker": "KJohnsonFinalProject\\clsValidation.cs",
+              "ToolTip": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\clsValidation.cs",
+              "RelativeToolTip": "KJohnsonFinalProject\\clsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:36:00.259Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\frmReports.cs",
+              "RelativeDocumentMoniker": "KJohnsonFinalProject\\frmReports.cs",
+              "ToolTip": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\frmReports.cs [Design]",
+              "RelativeToolTip": "KJohnsonFinalProject\\frmReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:41:47.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmManagerView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\frmManagerView.cs",
+              "RelativeDocumentMoniker": "KJohnsonFinalProject\\frmManagerView.cs",
+              "ToolTip": "C:\\Users\\Kylej\\Desktop\\Keyboard Vault Application\\KJohnsonFinalProject\\frmManagerView.cs [Design]",
+              "RelativeToolTip": "KJohnsonFinalProject\\frmManagerView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:04:18.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
