@@ -145,12 +145,8 @@
 
 ---
 
-## 🎥 Videos  
-- 📄 [Project Proposal](https://drive.google.com/file/d/1TNNwKGorT3a8rEtl01BEWqLtjAn8sdRB/view?usp=sharing)  
-- 🔐 [Logon View](https://drive.google.com/file/d/1hgR7amKWYglax8e_860M4z9oswMHwiNx/view?usp=drive_link)  
-- 🛒 [Customer View](https://drive.google.com/file/d/1BG9MxAIM-M6MOuK-NU5J8utDyiwYZ4RZ/view?usp=sharing)  
-- 📊 [Manager View](https://drive.google.com/file/d/1zE6ZWlm0Ri2HVmk7U__IqmDIvSgY8xoa/view?usp=sharing)  
-- 📹 [Client Demonstration](https://drive.google.com/file/d/1mJGwLlOTD7JzKfyNEssxBrZ2MLKeFNun/view?usp=sharing)  
+## 🎥 Demonstration Video  
+- 📹 [Demonstration](https://drive.google.com/file/d/1mJGwLlOTD7JzKfyNEssxBrZ2MLKeFNun/view?usp=sharing)  
 
 ---
 
